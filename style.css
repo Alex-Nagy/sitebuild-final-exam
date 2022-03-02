@@ -40,3 +40,11 @@
     -webkit-appearance: none !important;
     border-radius: 0
   }
+
+/* ! CSS reset END */
+
+:root {
+  --primary: #f8f7f3;
+  --secondary: #1a24fb;
+}
+
