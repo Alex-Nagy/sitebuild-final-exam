@@ -63,6 +63,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  z-index: 2;
 }
 header h1, header .menu {
   margin: 15px;
@@ -118,6 +119,8 @@ section.container {
 .title {
   font-size: 36px;
   font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 30px;
 }
 
 .sub {
